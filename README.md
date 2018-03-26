@@ -1,5 +1,5 @@
 # voyzu-planned-architecture
-Planned architecture for upcoming 'Voyzu' specification, patterns and PoC
+Planned architecture for upcoming 'Voyzu' Proof of Concept (PoC)
 
 ### domain management
 
