@@ -20,6 +20,7 @@ Planned architecture for upcoming 'Voyzu' Proof of Concept (PoC)
 
 - Lambda
 - API Gateway
+- Simple Email Service
 
 ### Web UI
 
